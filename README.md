@@ -1,4 +1,4 @@
-# GOAP NPC Plugin
+# GOAP NPC Plugin DEMO
 
 Hi there!
 
